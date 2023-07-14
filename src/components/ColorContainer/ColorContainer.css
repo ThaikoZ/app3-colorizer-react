@@ -1,0 +1,12 @@
+#colorContainer { 
+  background-color:beige;
+  width: 17rem;
+  height: 17rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  border-radius: 0.5rem;
+  font-size: 1.5rem;
+  box-shadow: 2px 2px 5px #000;
+}
